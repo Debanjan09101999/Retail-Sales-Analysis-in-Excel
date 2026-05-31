@@ -4,5 +4,5 @@
 3. Graphs pointing the ratios and margin of product sales
 4. Products influencing the sales
 5. Data Source : Pw Skill
-6.Demo images showing the sales report
+6. Demo images showing the sales report
 ![Alt Text](https://github.com/Debanjan09101999/Retail-Sales-Analysis-in-Excel/blob/main/Capture.png)
