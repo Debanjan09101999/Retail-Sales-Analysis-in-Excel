@@ -5,4 +5,5 @@
 4. Products influencing the sales
 5. Data Source : Pw Skill
 6. Demo images showing the sales report
-![Alt Text](https://github.com/Debanjan09101999/Retail-Sales-Analysis-in-Excel/blob/main/Capture.png)
+7. ![Alt Text](https://github.com/Debanjan09101999/Retail-Sales-Analysis-in-Excel/blob/main/Capture.png)
+
